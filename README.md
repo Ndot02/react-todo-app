@@ -10,3 +10,12 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+ react-todo-app
+1. Installation:
+       git clone https://github.com/Ndot02/react-todo-app.git
+       cd react-todo-app
+  Install dependencies :npm i
+2.Usage: Running the Development Server
+    npm run dev
